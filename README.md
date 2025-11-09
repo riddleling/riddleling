@@ -1,6 +1,6 @@
 I'm a programmer currently interested in AI coding and native app development.
 
-一個程式員，目前的興趣是研究 AI Coding 與原生 app 開發。
+一個程式員，目前的興趣是研究 AI coding 與原生 app 開發。
 
 ### My products 我的產品：
 
