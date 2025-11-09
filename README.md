@@ -24,7 +24,7 @@ For software development collaboration, please contact me.
 ### My toolbox 我的工具集：
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-d99b79?logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
