@@ -1,16 +1,16 @@
-## Hello, I'm Wei-Cheng
+## 👋 Hello, I'm Wei-Cheng
 
 I'm a programmer currently interested in AI coding and native app development.
 
 一個程式員，目前的興趣是研究 AI coding 與原生 app 開發。
 
-### My products 我的產品：
+### 📦 My products 我的產品：
 
 - [iOS app](https://apps.apple.com/us/developer/wei-cheng-ling/id1155984309)
 - [Android app](https://play.google.com/store/apps/developer?id=Riddle+Ling)
 
 
-### Contact 聯繫方式：
+### ✉️ Contact 聯繫方式：
 
 For software development collaboration, please contact me.
 
@@ -21,7 +21,7 @@ For software development collaboration, please contact me.
 - Email：riddle.apple@gmail.com
 
 
-### My toolbox 我的工具集：
+### 🛠️ My toolbox 我的工具集：
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-d99b79?logo=rust&logoColor=white)
