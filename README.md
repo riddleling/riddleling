@@ -18,6 +18,7 @@ For software development collaboration, please contact me.
 
 - X：[riddle_ling](https://x.com/riddle_ling)
 - Threads: [@riddle_ling](https://www.threads.com/@riddle_ling)
+- Mastodon: [@riddleling](https://g0v.social/@riddleling)
 - Email：riddle.apple@gmail.com
 
 
