@@ -24,7 +24,7 @@ For software development collaboration, please contact me.
 
 ### 🛠️ My toolbox 我的工具集：
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-d99b79?logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -32,4 +32,5 @@ For software development collaboration, please contact me.
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
