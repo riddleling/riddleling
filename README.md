@@ -33,4 +33,5 @@ For software development collaboration, please contact me.
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-7FE719?logo=gtk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
