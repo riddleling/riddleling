@@ -7,7 +7,6 @@ I'm a programmer currently interested in AI coding and native app development.
 ### 📦 My products 我的產品：
 
 - [iOS app](https://apps.apple.com/us/developer/wei-cheng-ling/id1155984309)
-- [Android app](https://play.google.com/store/apps/developer?id=Riddle+Ling)
 
 
 ### ✉️ Contact 聯繫方式：
@@ -26,7 +25,6 @@ For software development collaboration, please contact me.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-d99b79?logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white)
