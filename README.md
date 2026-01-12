@@ -11,10 +11,6 @@ I'm a programmer currently interested in AI coding and native app development.
 
 ### ✉️ Contact 聯繫方式：
 
-For software development collaboration, please contact me.
-
-如需程式開發合作，請聯繫我。
-
 - X：[riddle_ling](https://x.com/riddle_ling)
 - Threads: [@riddle_ling](https://www.threads.com/@riddle_ling)
 - Mastodon: [@riddleling](https://g0v.social/@riddleling)
