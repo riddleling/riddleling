@@ -20,7 +20,7 @@ I'm a programmer currently interested in AI coding and native app development.
 ### 🛠️ My toolbox 我的工具集：
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-d99b79?logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white)
