@@ -22,6 +22,7 @@ I'm a programmer currently interested in AI coding and native app development.
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8DC63F?logo=juce&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?logo=gtk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
