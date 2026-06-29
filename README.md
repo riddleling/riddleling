@@ -1,8 +1,12 @@
+<div align="center">
+  
 ## 👋 Hello, I'm Wei-Cheng
 
 A developer focused on native development. Outside of work, I’m immersed in the world of retro gaming.
 
 專注原生開發的程式員。工作之外，沉迷於復古電玩的世界。
+
+</div>
 
 ### 📦 My products 我的產品：
 
