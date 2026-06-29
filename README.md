@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hello, I'm Wei-Cheng 👋
+# Hello, I'm Wei-Cheng 👋
 
 A developer focused on native development. Outside of work, I’m immersed in the world of retro gaming.
 
