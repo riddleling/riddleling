@@ -18,7 +18,6 @@ A developer focused on native development. Outside of work, I’m immersed in th
 ### ✉️ Contact 聯繫方式：
 
 - Threads: [@riddle_ling](https://www.threads.com/@riddle_ling)
-- Mastodon: [@riddleling@g0v.social](https://g0v.social/@riddleling)
 - Email：riddle.apple@gmail.com
 
 
